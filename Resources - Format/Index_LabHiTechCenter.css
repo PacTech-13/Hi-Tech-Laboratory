@@ -1,13 +1,13 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: url("/main/Resources - Format/OIG4.jpg") no-repeat center center fixed;
+    background: url("main/Resources - Format/OIG4.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
 @font-face {
     font-family: "title_font";
-    src: url("/main/Resources - Format/Fonts/Orbitron-Black.ttf");
+    src: url("main/Resources - Format/Fonts/Orbitron-Black.ttf");
 }
 
 header {
