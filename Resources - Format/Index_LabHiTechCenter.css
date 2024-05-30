@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: url("https://raw.githubusercontent.com/PacTech-13/Hi-Tech-Laboratory/main/Resources%20-%20Format/OIG4.jpg") no-repeat center center fixed;
+    background: url("/main/Resources%20-%20Format/OIG4.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
